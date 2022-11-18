@@ -1,0 +1,27 @@
+[submodule "spring_boot_rest"]
+	path = spring_boot_rest
+	url = https://github.com/VitaliKasaty/Spring_Boot_REST.git
+[submodule "spring_boot_data_jpa"]
+	path = spring_boot_data_jpa
+	url = https://github.com/VitaliKasaty/SpringBoot_DATA_JPA.git
+[submodule "spring_security"]
+	path = spring_security
+	url = https://github.com/VitaliKasaty/Spring_security.git
+[submodule "spring_rest"]
+	path = spring_rest
+	url = https://github.com/VitaliKasaty/Spring_REST.git
+[submodule "rest_client"]
+	path = rest_client
+	url = https://github.com/VitaliKasaty/REST_Client.git
+[submodule "spring_mvc_hibernate_aop"]
+	path = spring_mvc_hibernate_aop
+	url = https://github.com/VitaliKasaty/Spring_mvc_hibernate_aop.git
+[submodule "spring_mvc"]
+	path = spring_mvc
+	url = https://github.com/VitaliKasaty/Spring_MVC_course.git
+[submodule "spring_ioc_di_aop_hibernate"]
+	path = spring_ioc_di_aop_hibernate
+	url = https://github.com/VitaliKasaty/SpringLearn-IOC-DI-AOP-Hibernate.git
+[submodule "spring_boot_data_rest"]
+	path = spring_boot_data_rest
+	url = https://github.com/VitaliKasaty/SpringBoot_DATA_REST.git
